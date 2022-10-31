@@ -1,0 +1,5 @@
+CREATE DATABASE customer;
+create table customer(customer_name varchar(10),age int,proffesion varchar(10),monthly_income varchar(5));
+insert into customerInfo value('G.Naveen',20,'student','100000');
+insert into customerInfo value('G.praveen',22,'student','1100000');
+insert into customerInfo value('G.kishan',40,'farmer','90000');
